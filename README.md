@@ -1,4 +1,7 @@
 # TableExport xls with Bold Headers jQuery Plugin
+![npm](https://img.shields.io/npm/v/tableexport-xls-bold-headers.svg)
+![npm](https://img.shields.io/npm/dt/tableexport-xls-bold-headers.svg)
+
 A jQuery plugin which generates a basic .xls file with bold headers from a HTML table.
 
 #### Install
